@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsimovController", "AsimovController.csproj", "{F409B51B-8BB2-4108-9D53-6F5C4DE22B94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F409B51B-8BB2-4108-9D53-6F5C4DE22B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F409B51B-8BB2-4108-9D53-6F5C4DE22B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F409B51B-8BB2-4108-9D53-6F5C4DE22B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F409B51B-8BB2-4108-9D53-6F5C4DE22B94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C01E450F-7950-49ED-9720-A12643D293B3}
+	EndGlobalSection
+EndGlobal

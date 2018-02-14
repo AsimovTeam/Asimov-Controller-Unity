@@ -1,0 +1,7 @@
+C:\Users\ferlu\Projects\Asimov-Controller-Unity\AsimovController\bin\Debug\AsimovController.exe.config
+C:\Users\ferlu\Projects\Asimov-Controller-Unity\AsimovController\bin\Debug\AsimovController.exe
+C:\Users\ferlu\Projects\Asimov-Controller-Unity\AsimovController\bin\Debug\AsimovController.pdb
+C:\Users\ferlu\Projects\Asimov-Controller-Unity\AsimovController\obj\Debug\AsimovController.csprojResolveAssemblyReference.cache
+C:\Users\ferlu\Projects\Asimov-Controller-Unity\AsimovController\obj\Debug\AsimovController.csproj.CoreCompileInputs.cache
+C:\Users\ferlu\Projects\Asimov-Controller-Unity\AsimovController\obj\Debug\AsimovController.exe
+C:\Users\ferlu\Projects\Asimov-Controller-Unity\AsimovController\obj\Debug\AsimovController.pdb
