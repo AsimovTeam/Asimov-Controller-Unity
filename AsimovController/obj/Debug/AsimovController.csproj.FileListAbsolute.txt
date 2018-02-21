@@ -5,3 +5,10 @@ C:\Users\ferlu\Projects\Asimov-Controller-Unity\AsimovController\obj\Debug\Asimo
 C:\Users\ferlu\Projects\Asimov-Controller-Unity\AsimovController\obj\Debug\AsimovController.csproj.CoreCompileInputs.cache
 C:\Users\ferlu\Projects\Asimov-Controller-Unity\AsimovController\obj\Debug\AsimovController.exe
 C:\Users\ferlu\Projects\Asimov-Controller-Unity\AsimovController\obj\Debug\AsimovController.pdb
+D:\Doc Nick\Documents\GitProjets\Asimov-Controller-Unity\AsimovController\bin\Debug\AsimovController.exe.config
+D:\Doc Nick\Documents\GitProjets\Asimov-Controller-Unity\AsimovController\bin\Debug\AsimovController.exe
+D:\Doc Nick\Documents\GitProjets\Asimov-Controller-Unity\AsimovController\bin\Debug\AsimovController.pdb
+D:\Doc Nick\Documents\GitProjets\Asimov-Controller-Unity\AsimovController\obj\Debug\AsimovController.csprojResolveAssemblyReference.cache
+D:\Doc Nick\Documents\GitProjets\Asimov-Controller-Unity\AsimovController\obj\Debug\AsimovController.csproj.CoreCompileInputs.cache
+D:\Doc Nick\Documents\GitProjets\Asimov-Controller-Unity\AsimovController\obj\Debug\AsimovController.exe
+D:\Doc Nick\Documents\GitProjets\Asimov-Controller-Unity\AsimovController\obj\Debug\AsimovController.pdb
